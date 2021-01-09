@@ -137,21 +137,39 @@ hypothesizes and learnings with the product manager and data scientists.
 hypothesizes 假设
 
 9. Strong product instincts through repeated cycles of learning
+instinct 本能 repeated 重复 
 A typical project for a product-minded engineer usually goes like this:
 
 They ask a lot of questions to understand exactly why the product feature is being built.
+exactly 确切的
 They bring suggestions and tradeoffs to the table, some of which are included in the revised spec.
+revised 修正
+
 They build the feature quickly, getting early feedback, as they do.
 After shipping the feature, they actively follow up to understand if the feature lives up to the expectation.
 When it does not, they dig deep, to understand why it did not and learn something new about product usage in the real world.
-After each project, their product understanding deepens, and they start to develop better and better product instincts. The next time, they'll bring even more relevant suggestions to the table. Over time, they become a goto person for product managers, their advice being sought well before projects are kicked off. They build a strong reputation outside the team, opening more doors for their continued career growth.
+dig 挖掘 
+After each project, their product understanding deepens, and they start to develop better and better product instincts. The next time, they'll bring even more 
+instinct 本性
+relevant suggestions to the table. Over time, they become a goto person for product managers, their advice being sought well before projects are kicked off. They 
+relevant 相关 sought 寻求 kick踢
+build a strong reputation outside the team, opening more doors for their continued career growth.
+reputation 生育
+
 
 Tips to become a more product-minded engineer
 If you work on a user-facing product, here are a few tips I've seen work well, to growing your product-minded muscle.
 
-Understand how and why your company is successful. What is the business model? How is money made? What parts are most profitable, what parts of the company are expanding the most? Why? How does your team fit into all of this?
-Build a strong relationship with your product manager. Most product managers jump on the opportunity to mentor engineers. Having engineers be interested in product means they can scale themselves more. Before coming in, asking a lot of product questions, take time to build this relationship and make it clear to your product manager, that you'd like to get more involved in product topics.
-Engage in user research, customer support, and other activities, where you can learn more about how the product works. Pair with designers, UX people, data scientists, operations people and others, who frequently interact with users.
+Understand how and why your company is successful. What is the business model? How is money made? What parts are most profitable, what parts of the company are
+profitable 有利润的
+expanding the most? Why? How does your team fit into all of this?
+expand 扩展 
+Build a strong relationship with your product manager. Most product managers jump on the opportunity to mentor engineers. Having engineers be interested in product 
+opportunity 机会点 mentor 导师
+means they can scale themselves more. Before coming in, asking a lot of product questions, take time to build this relationship and make it clear to your product manager, that you'd like to get more involved in product topics.
+Engage in user research, customer support, and other activities, where you can learn more about how the product works. Pair with designers, UX people, data 
+pair 一对
+scientists, operations people and others, who frequently interact with users.
 Bring well-backed product suggestions to the table. After you have a good understanding of the business, the product and stakeholders: take initiative. You could bring small suggestions to a project you are working on. Or you could suggest a larger effort, outlining the engineering effort and the product effort, making this easy to prioritize in the backlog.
 Offer product/engineering tradeoffs for the projects you work on. Think of not only making engineering tradeoffs for the product feature your team is building but suggest product tradeoffs that result in less engineering effort. Be open to the feedback on these from others.
 Ask for frequent feedback from your product manager. Being a great product-minded engineer means you have built up good product skills, on top of your existing engineering skillset. The best person to give you feedback on how you're doing on the product skillset is your product manager. Reach out for feedback on how valuable they see your product suggestions and ask for thoughts on areas for further growth.
